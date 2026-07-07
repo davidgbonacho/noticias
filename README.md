@@ -7,7 +7,7 @@ Simply publish a branch on github. You have more deploy options
 
 
 >[!NOTE]Info
-[Texto en español aquí](README_ES.MD)
+[Texto en español aquí](README_ES.md)
 
 ![](img/logo.svg) 
 ---

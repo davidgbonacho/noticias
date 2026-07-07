@@ -7,7 +7,7 @@ Simplemente publicando una rama en github. Tienes más opciones de despliegue.
 
 
 >[!NOTE]Info
-[Text in English here](README.MD)
+[Text in English here](README.md)
 
 ![](img/logo.svg) 
 ---
